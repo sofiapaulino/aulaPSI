@@ -19,6 +19,7 @@ public class Ficha12_M9 {
     public static void main(String[] args) {
         // TODO code application logic here
         Scanner sc=new Scanner(System.in);
+        //teste123
         Anime xpto = new Anime();
         //Anime xpto = new Anime();
         System.out.println("1-Inserir ataques");
